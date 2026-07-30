@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — [Your Name]
+# Data Analytics Portfolio — TEJASHWINI S
 
 ECE graduate transitioning into Data Analytics, with hands-on BFSI (housing finance) domain experience from an apprenticeship at LIC Housing Finance Ltd. Currently completing a structured DA training program (Spreadsheets → SQL → Power BI → Business Analytics → Python).
 
@@ -43,5 +43,5 @@ Data cleaning · Spreadsheet modeling · SQL · Power BI · Python (pandas) · B
 
 ## Contact
 
-- LinkedIn: [add link]
-- Email: [add email]
+- LinkedIn: www.linkedin.com/in/tejashwini-s-24488b41a
+- Email: aryantejashwini@gmail.com
